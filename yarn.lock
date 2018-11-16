@@ -226,9 +226,9 @@ koa@^2.6.2:
     type-is "^1.6.16"
     vary "^1.1.2"
 
-lodash@4.17.4:
-  version "4.17.4"
-  resolved "http://registry.npm.taobao.org/lodash/download/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+lodash@^4.17.11:
+  version "4.17.11"
+  resolved "http://registry.npm.taobao.org/lodash/download/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
 media-typer@0.3.0:
   version "0.3.0"
