@@ -1,0 +1,20 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "prettier.singleQuote": true,
+  // "prettier.semi": false,
+  "editor.tabSize": 4,
+  "px-to-rem.px-per-rem": 37.5,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.integrated.rendererType": "dom",
+  "vetur.format.defaultFormatterOptions": {
+      "js-beautify-html": {
+          "wrap_attributes": "force-aligned"
+      }
+  },
+  "vetur.format.defaultFormatter.html": "js-beautify-html",
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "javascript.validate.enable": false,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+}
