@@ -1,15 +1,4 @@
 # 腾讯云小程序解决方案 Demo - Node.js
-
-Node.js 版本 Wafer SDK 的服务端 Demo
-
-## 下载源码
-
-你可以直接通过 git 将代码 clone 到本地，也可以点击[这里](https://github.com/tencentyun/wafer-node-server-demo/releases)下载。
-
-```bash
-git clone https://github.com/tencentyun/wafer-node-server-demo.git
-```
-
 ## 开始使用
 
 #### 安装依赖
